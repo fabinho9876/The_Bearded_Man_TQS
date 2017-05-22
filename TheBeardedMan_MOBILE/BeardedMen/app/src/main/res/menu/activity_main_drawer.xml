@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_catalog"
+            android:icon="@drawable/ic_library_black"
+            android:title="@string/menu1" />
+        <item
+            android:id="@+id/nav_man"
+            android:icon="@drawable/ic_man_black"
+            android:title="@string/menu2" />
+        <item
+            android:id="@+id/nav_business"
+            android:icon="@drawable/ic_business_black"
+            android:title="@string/menu3" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_contact_black"
+            android:title="@string/menu4" />
+    </group>
+
+    <!--
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+    -->
+</menu>

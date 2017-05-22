@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BeardedMan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_button">Enter</string>
+
+    <string name="menu1">Catálogo</string>
+    <string name="menu2">Homem</string>
+    <string name="menu3">Parceria</string>
+    <string name="menu4">Contacto</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="partnership">Pedido de parceria</string>
+    <string name="contact_us">Contacte-nos</string>
+    <string name="send">Enviar</string>
+    <string name="name">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="subject">Assunto</string>
+    <string name="message">Mensagem</string>
+</resources>
